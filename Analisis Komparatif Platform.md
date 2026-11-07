@@ -1,9 +1,9 @@
 # Analisis Komparatif Platform
 **Nama:** Muhamad Azlan Farizki
 **NIM:** 240511200
-**Kelas:** TI24D
 
-## Bagian 2: Tabel Analisis
+
+## Tabel Analisis
 
 | Aspek | Web | Desktop | Mobile |
 | :--- | :--- | :--- | :--- |
@@ -22,7 +22,7 @@
 ---
 
 
-## Bagian 3: Refleksi
+## Refleksi
 
 Dari ketiga platform yang telah saya cermati, platform Web merupakan yang paling menarik untuk saya pelajari lebih dalam. Minat ini muncul karena sifat web yang lintas platform dan bisa  diakses dari berbagai perangkat, kapan saja, tanpa perlu pengguna melakukan instalasi yang membebani memori. Selain itu, pengembangan web sangat sesuai dengan minat saya dalam pengelolaan database dan otomatisasi sistem (seperti Python dan AI). Teknologi web sering kali menjadi "wajah" atau antarmuka utama yang paling ramah pengguna untuk menampilkan hasil pengolahan data atau sistem cerdas (seperti chatbot) kepada masyarakat.
 
